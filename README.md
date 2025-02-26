@@ -1,23 +1,23 @@
-# Quiz Naruto
+# Naruto Quiz
 
-Este projeto é um quiz simples baseado no anime **Naruto**. O objetivo é responder a 5 perguntas sobre o anime e, ao final, exibir o número de acertos e erros. O quiz é desenvolvido utilizando **HTML**, **CSS** (via Bootstrap), e **JavaScript** para manipulação de eventos e interação com o usuário.
+This project is a simple quiz based on the anime **Naruto**. The goal is to answer 5 questions about the anime and, at the end, display the number of correct and incorrect answers. The quiz is developed using **HTML**, **CSS** (via Bootstrap), and **JavaScript** for event handling and user interaction.
 
-## Funcionalidades
+## Features
 
-- Exibe 5 perguntas sobre o anime Naruto.
-- Permite ao usuário escolher uma resposta para cada pergunta.
-- Após o envio do formulário, o número de acertos e erros é exibido.
-- Fornece feedback visual, parabenizando o usuário caso acerte todas as respostas, ou incentivando a tentar novamente.
-- A página rola automaticamente para o topo, mostrando os resultados.
+- Displays 5 questions about the Naruto anime.
+- Allows the user to choose one answer for each question.
+- After submitting the form, the number of correct and incorrect answers is displayed.
+- Provides visual feedback, congratulating the user if all answers are correct, or encouraging them to try again.
+- Automatically scrolls the page to the top, showing the results.
 
-## Tecnologias Utilizadas
+## Technologies Used
 
-- **HTML5**: Estruturação do conteúdo da página.
-- **CSS**: Utilização do Bootstrap para estilização rápida e responsiva.
-- **JavaScript**: Lógica para coleta e verificação das respostas, exibição de resultados e rolagem da página.
+- **HTML5**: Structuring the page content.
+- **CSS**: Using Bootstrap for fast and responsive styling.
+- **JavaScript**: Logic for collecting and verifying answers, displaying results, and scrolling the page.
 
-## Habilidades praticadas
+## Skills Practiced
 
-- Manipulação de DOM com JavaScript
-- Eventos de formulários
-- Map e Reduce
+- DOM manipulation with JavaScript
+- Form events handling
+- Map and Reduce methods
